@@ -23,8 +23,6 @@ Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Data Dictionary - https://drive.google.com/file/d/1OYlh0BCoN4i3dUtJEvZ2_ArzzJkdq1YB/view?usp=sharing
 
-## Dashboard link
-https://lookerstudio.google.com/reporting/f6d83de6-42d6-471f-a7a9-384ab025ec25
 
 ## Architecture
 ![architecture](https://github.com/Annkkitaaa/Uber-Data-Analytics-Project/assets/100662026/1f7d70c1-95cb-4cc7-8bbe-9db9bc10d322)
